@@ -40,3 +40,9 @@ Options
 
 		Perform this many NUM of captures then exit.
 
+
+Links
+-----------
+	Project page
+	https://github.com/ike9000e/Clipboard-CLI-Logger
+
